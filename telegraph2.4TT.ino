@@ -6,7 +6,7 @@
 
 Adafruit_SSD1306 display(-1); 
 
-RF24 radio(9,10);
+RF24 radio(7,8);
 byte rxAddr[][6] = {"00001","00002"};
 char DATA[20];
 char text[20]="";
