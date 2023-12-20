@@ -26,8 +26,14 @@ void loop()
     while(radio.available())
     {
       radio.read(DATA,sizeof(DATA));
+      delay(500);
       Serial.println(DATA);
   
+      delay(1);
+    }
+    for(int r=0 ; r<20 ; r++)
+    {
+      DATA[r]="";
       delay(1);
     }
   }
@@ -42,9 +48,14 @@ void loop()
       text[i]=SS[i];
       delay(1);
     }
-    Serial.println('\t'+text);
     radio.write(text,sizeof(text));
     delay(10);
+    SS = "";
+    for(int j=0 ; j<SS.length() ; j++)
+    {
+      text[j]="";
+      delay(1);
+    }
   }
   
 }
