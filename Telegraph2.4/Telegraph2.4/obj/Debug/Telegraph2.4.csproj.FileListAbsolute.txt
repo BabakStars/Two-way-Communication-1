@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\bin\Debug\Telegraph2.4.exe.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\bin\Debug\Telegraph2.4.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\bin\Debug\Telegraph2.4.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2.4.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2._4.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2._4.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2.4.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2.4.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\Telegraph2.4\Telegraph2.4\obj\Debug\Telegraph2.4.pdb
